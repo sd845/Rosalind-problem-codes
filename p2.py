@@ -1,3 +1,5 @@
+
+#Transcribing DNA into RNA
 def make_rna(string):
     """ function to transcribe DNA into RNA"""
     
