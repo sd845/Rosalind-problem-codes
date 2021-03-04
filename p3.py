@@ -1,3 +1,4 @@
+# Complementing a Strand of DNA
 def rev_complement(string):
     """ function to calculate the reverse complement of a DNA strand """
     
