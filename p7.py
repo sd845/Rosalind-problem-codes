@@ -1,3 +1,5 @@
+# Mendel's First Law
+
 def calculate_prob(k, m, n):
     """ calculates probability that two randomly selected 
     mating organisms will produce an individual possessing 
