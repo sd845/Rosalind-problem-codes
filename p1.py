@@ -1,4 +1,3 @@
-# problem 1
 from collections import Counter
 
 def count_nts(string):
