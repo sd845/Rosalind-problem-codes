@@ -1,3 +1,4 @@
+# Counting Point Mutations
 def hamming_distance(sequence1, sequence2):
     """ function that calculates hamming distance between two DNA sequences"""
     
