@@ -11,7 +11,6 @@ class BFS:
             
         return graph
     
-    
     def find_shortest_path(self, graph):
     
         queue = [1]
@@ -34,7 +33,6 @@ class BFS:
         min_dist[1] = 0
         return min_dist    
             
-        
     def print_result(self, result, n):
         for i in range(1, n+1):
             print(result[i], end=" ")
